@@ -74,7 +74,7 @@
     },
     {
       "name": "J",
-      "description": "position9"
+      "description": "position9",
       "north": null,
       "east": "K",
       "south": null,
@@ -82,7 +82,7 @@
     },
     {
       "name": "K",
-      "description": "position10"
+      "description": "position10",
       "north": null,
       "east": null,
       "south": null,
