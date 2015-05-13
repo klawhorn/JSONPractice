@@ -1,0 +1,93 @@
+{
+  "rooms": [
+    {
+      "name": "A",
+      "description": "position0",
+      "east": "B",
+      "south": null,
+      "west": null
+    },
+    {
+      "name": "B",
+      "description": "position1",
+      "north": "E",
+      "east": "C",
+      "south": null,
+      "west": "A",
+      "entrance": "south"
+    },
+    {
+      "name": "C",
+      "description": "position2",
+      "north": null,
+      "east": null,
+      "south": null,
+      "west": "B"
+    },
+    {
+      "name": "D",
+      "description": "position3",
+      "north": "G",
+      "east": null,
+      "south": "A",
+      "west": null
+    },
+    {
+      "name": "E",
+      "description": "position4",
+      "north": null,
+      "east": "F",
+      "south": "B",
+      "west": null
+    },
+    {
+      "name": "F",
+      "description": "position5",
+      "north": null,
+      "east": null,
+      "south": null,
+      "west": "E"
+    },
+    {
+      "name": "G",
+      "description": "position6",
+      "north": "H",
+      "east": null,
+      "south": "D",
+      "west": null
+    },
+    {
+      "name": "H",
+      "description": "position7",
+      "north": null,
+      "east": "I",
+      "south": "G",
+      "west": null
+    },
+    {
+      "name": "I",
+      "description": "position8",
+      "north": null,
+      "east": "J",
+      "south": null,
+      "west": "H"
+    },
+    {
+      "name": "J",
+      "description": "position9"
+      "north": null,
+      "east": "K",
+      "south": null,
+      "west": "I"
+    },
+    {
+      "name": "K",
+      "description": "position10"
+      "north": null,
+      "east": null,
+      "south": null,
+      "west": "J",
+      "treasure": true
+    }
+  ]
+}
